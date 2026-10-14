@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm PhD-trained scientist with a decade of experience in quantitative data acquisition, probabilistic modeling, and scientific programming. My doctorate in Biophysical NMR Spectroscopy demanded cross-disciplinary expertise spanning quantum mechanics, signal processing, electrical engineering, and biochemistry. I recently transitioned into Machine Learning and have since developed a deeper interest in how AI and data-driven methods transform applied problems across industries.
 <!--
 **sabahri/sabahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
